@@ -1,6 +1,5 @@
 # Hearbeat On
-O projeto tem como principal objetivo o monitoramento cardíaco através
-de um pequeno sensor. Em casos hospitalares, por exemplo, os dados são enviados diretamente para uma plataforma online, e isso permite que médicos que estejam de plantão não necessariamente precisem ir até a sala do paciente ser verificado o estado do paciente, já que os dados captados são disponibilizados em uma plataforma online. A solução também permite um rastreamento de dados, isso faz com que possa haver uma revisão dos dados captados da pessoa de uma maneira rápida e fácil.
+O projeto tem como principal objetivo o monitoramento cardíaco através de um pequeno sensor conectado à internet. Este sensor pode atuar de diversas maneiras, em casos hospitalares, por exemplo, os dados são enviados diretamente para uma plataforma online, e isso permite que médicos que estejam de plantão não necessariamente precisem ir até a sala do paciente ser verificado o estado do paciente, já que os dados captados são disponibilizados em uma plataforma online. A solução também permite um rastreamento de dados, isso faz com que possa haver uma revisão dos dados captados da pessoa de uma maneira rápida e fácil.
 ## Componentes Usados
 - **NodeMCU:** O módulo Wifi ESP8266 NodeMCU é uma placa de desenvolvimento que combina o chip ESP8266, uma interface usb-serial e um regulador de tensão 3.3V.
 [NodeMCU (ESP82266)](https://www.filipeflop.com/produto/modulo-wifi-esp8266-nodemcu-esp-12/)
